@@ -1,3 +1,9 @@
+# Snake Agent
+
+Project presented in Artificial Intelligence class (Universidade de Aveiro), 2016.
+
+The main goal is to create an agent capable of grab the food and/or kill the other agent, with hard time limitations that prevent them to use A* to calculate the optimal path.
+
 # Requirements:
 - Python 3.5 (carefull! 3.4 will not work!)
 - Create a virtualenv:
