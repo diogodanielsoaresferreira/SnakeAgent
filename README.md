@@ -51,3 +51,5 @@ Now you can fetch from the upstream and merge with your repository:
     git merge upstream/master (or other branch)
 
 
+Diogo Ferreira
+Luís Leira
